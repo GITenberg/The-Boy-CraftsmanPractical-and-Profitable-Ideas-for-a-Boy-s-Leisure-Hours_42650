@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '41294'
     url: http://www.gutenberg.org/2009/agents/41294
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42650#The-Boy-CraftsmanPractical-and-Profitable-Ideas-for-a-Boy-s-Leisure-Hours
 gutenberg_issued: '2013-05-05'
 gutenberg_type: Text
 identifiers:
